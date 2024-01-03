@@ -14,4 +14,10 @@
 
 # How to start
 
--   Next: `npx create-next-app@latest --typescript --tailwind`
+start with `num run dev` command
+
+-   Create Next Project: `npx create-next-app@latest --typescript --tailwind`
+-   Install some packages
+
+    -   `npm install react-icons react-hook-form clsx`
+    -   `npm i @tailwindcss/forms `
