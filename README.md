@@ -44,3 +44,4 @@ start with `num run dev` command
     -   Cf) `npx prisma db push` run this command when wrote down models of mongoDB at `schema.prisma`
     -   `npm install next-auth@latest @prisma/client @next-auth/prisma-adapter bcrypt`
     -   `npm install -D @types/bcrypt`
+    -   `npm install axios`
