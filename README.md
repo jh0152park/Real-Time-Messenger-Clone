@@ -2,7 +2,7 @@
 
 # Tech to be used for this project
 
--   Next.js13
+-   Next.js
 -   React
 -   Tailwind
 -   Prisma
