@@ -1,5 +1,7 @@
 # Real Time Messenger Clone
 
+# Source: [Code With Antonio](https://www.youtube.com/watch?v=PGPGcKBpAk8)
+
 # Tech to be used for this project
 
 -   Next.js
@@ -17,7 +19,7 @@
 start with `num run dev` command
 
 -   Create Next Project: `npx create-next-app@latest --typescript --tailwind`
--   Install some packages
+-   Install some packages and instructions
 
     -   `npm install react-icons react-hook-form clsx`
     -   `npm i @tailwindcss/forms `
@@ -40,3 +42,4 @@ start with `num run dev` command
     -   Replace `<password>` to real password when made at the beginning
     -   Write down our model into `schema.prisma` file
     -   Cf) `npx prisma db push` run this command when wrote down models of mongoDB at `schema.prisma`
+    -   `npm install next-auth@latest @prisma/client @next-auth/prisma-adapter bcrypt`
