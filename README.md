@@ -31,7 +31,7 @@ start with `num run dev` command
             url      = env("DATABASE_URL")
             }
         ```
-    -   [move tpo MongoDB homepage](https://www.mongodb.com/atlas/database)
+    -   [move to MongoDB homepage](https://www.mongodb.com/atlas/database)
     -   Sign in to MongoDB
     -   Create a new Project with free course
     -   Go to `Security` -> `Quickstart` then Create a new Account
@@ -45,3 +45,4 @@ start with `num run dev` command
     -   `npm install next-auth@latest @prisma/client @next-auth/prisma-adapter bcrypt`
     -   `npm install -D @types/bcrypt`
     -   `npm install axios`
+    -   `npm install react-hot-toast`
